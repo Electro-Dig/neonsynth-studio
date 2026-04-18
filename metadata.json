@@ -1,0 +1,5 @@
+{
+  "name": "NeonSynth Studio",
+  "description": "A retro-futuristic AI synthwave music generator and sequencer. Create, edit, and play 80s-style loops powered by Gemini.",
+  "requestFramePermissions": []
+}
